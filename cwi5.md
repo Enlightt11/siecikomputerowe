@@ -1,5 +1,5 @@
 ### Zadanie 1: Wykaz interfejsów sieciowych i ich statusów
-Wyświetlenie uproszczonej listy interfejsów w celu weryfikacji ich stanu (UP/DOWN).
+Wyświetlenie uproszczonej listy interfejsów w celu weryfikacji ich stanu (UP/DOWN). 
 
 **Polecenie:**
 ip -br link
